@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H03T30G7LJjiZbsbA+UX4ua9p6zLdl9LNNukGpOBxAA9dJesFzwHzGY/R5ea/vtFcEVNgCfhm92E7h3Rhy7EqA==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Tests\\temp\\temp2\\TaxCalculator\\TaxCalculator\\src\\TaxCalculator.Core\\TaxCalculator.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sdodev\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\sdodev\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\sdodev\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\sdodev\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
